@@ -18,7 +18,10 @@ A modern and responsive dental clinic management system built with PHP, MySQL, H
 - Modern web browser
 
 ## Installation
-1. Clone this repository to your xampp/htdocs folder
+## IMPORTANT CHECKLIST BEFORE CLONING 
+##  CREATE A FOLDER NAME project IN htdocs FOLDER
+## INSIDE project FOLDER CREATE A SUB FOLDER NAME shreejandcms
+1. Clone this repository to your xampp/htdocs/project/shreejandcms/.....  folder
 2. Import the database schema from `database/dcms_db.sql`
 3. Configure database connection in `config/database.php`
 4. Access the application through your web browser at `http://localhost/dcms`
